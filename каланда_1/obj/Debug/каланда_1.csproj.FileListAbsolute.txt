@@ -1,1 +1,2 @@
 D:\3КУРС3\уп по кпяп\1\1 лаба\каланда_1\каланда_1\bin\Debug\каланда_1.exe.config
+C:\Users\KALANDOS\source\repos\каланда_1\каланда_1\bin\Debug\каланда_1.exe.config
